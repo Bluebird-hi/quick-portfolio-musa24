@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bike Share Prediction](/html/Luming_XuHW5b.html)
+<img src="images/Bikeshare.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Potential Innovation Districts](/pdf/PORTFOLIO-Xu Luming-1115.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
